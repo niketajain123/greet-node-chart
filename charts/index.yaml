@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  ng-chart:
+  - apiVersion: v2
+    created: "2026-01-08T18:00:02.565973684Z"
+    description: A Helm chart for Kubernetes
+    digest: ddfa0a97a38663bac8fa18a144603eaf5b38ba6a38b42ad6762cdce2ba22e6ec
+    name: ng-chart
+    type: application
+    urls:
+    - https://niketajain123.github.io/greet-node-chart/ng-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-01-08T18:00:02.562988541Z"
